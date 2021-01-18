@@ -1,0 +1,1 @@
+{"Epochs":100,"Activation":"tanh","hiddenLayers":2,"hiddenNodes":4,"bias":1,"Weights":[{"input":[0,0],"weights":[[0,0,0,0],[0,0,0,0]]},{"input":[0,1],"weights":[[1,1,1,1],[1,1,1,1]]},{"input":[1,0],"weights":[[1,1,1,1],[1,1,1,1]]},{"input":[1,1],"weights":[[0,0,0,0],[0,0,0,0]]}]}

@@ -1,0 +1,5 @@
+input,output
+bom,positivo
+mau,negativo
+indiferente,positivo
+indiferente,negativo

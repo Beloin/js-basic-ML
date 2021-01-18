@@ -1,0 +1,15 @@
+{
+  "name": "Inteligência Artificial com JavaScript",
+  "version": "1.0.0",
+  "description": "Machine Learning",
+  "main": "index.js",
+  "keywords": [
+    "Inteligência Artificial",
+    "JavaScript"
+  ],
+  "author": "Ben-Hur",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^6.0.4"
+  }
+}

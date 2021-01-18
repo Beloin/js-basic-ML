@@ -1,0 +1,15 @@
+{
+  "name": "estatistica-mathjs",
+  "version": "1.0.0",
+  "description": "IA com JS e Estatística",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^7.1.0"
+  }
+}

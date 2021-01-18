@@ -1,0 +1,7 @@
+x,y,class
+sol,anormal,não
+nublado,normal,sim
+chuva,anormal,não
+chuva,normal,não
+sol,normal,sim
+nublado,anormal,sim
